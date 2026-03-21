@@ -1,4 +1,4 @@
-cask "wechat" do
+cask "wechat@old" do
   version "4.1.7.57,34888"
   sha256 "4ee1f0e33f912093ef2ebbb4b9ee0d9a7c480c0482a0fe798da3f1219031a513"
 

@@ -6,7 +6,7 @@ cask "stash@old" do
   name "Stash"
 
   auto_updates true
-  depends_on macos: ">= :monterey"
+  depends_on macos: :monterey
 
   app "Stash.app"
 

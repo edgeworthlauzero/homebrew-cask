@@ -1,8 +1,8 @@
 cask "qq@old" do
-  version "6.9.80_250904_01"
-  sha256 "5548e059023169b8d7917261c5089026560391b2c334b69541e45a678586388b"
+  version "6.9.67_250318_01"
+  sha256 "19a28d9349d61c6e3dfcf0eb0f02220060f4a5832b5569d95e17a718dc1bbc1d"
 
-  url "https://dldir1v6.qq.com/qqfile/qq/QQNT/Mac/QQ_#{version}.dmg"
+  url "http://file.edgeworthlau.space/qq-6-9-67.dmg"
   name "QQ"
 
   auto_updates true
